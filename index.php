@@ -39,7 +39,7 @@ require("connect.php");
 
 <script type="text/javascript">
 
-var server = "http://localhost/TB2/kuliner_bkt1/";
+var server = "https://bdlkuliner.herokuapp.com/";
 var map;
 var markersDua = [];
 var koordinat = 'null'

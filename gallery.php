@@ -469,7 +469,7 @@ session_start();
     <script>
 
 var slideIndex = 1;
-var server = 'http://localhost/TB2/kuliner_bkt1/'
+var server = 'https://bdlkuliner.herokuapp.com/'
 //showDivs(slideIndex);
 
 function plusDivs(n) {
